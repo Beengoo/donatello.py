@@ -69,7 +69,3 @@ class Donatello:
 
         return target["page"]
 
-
-
-donate = Donatello(token="d509463259fd9c5b04f3e9ab0e727777")
-print(donate.created_at())
