@@ -21,7 +21,7 @@ from donatello import Donatello
 
 donate = Donatello(token="Your token here")
 
-print(f"Hello my name is {donate.get_nickname()}, donate me pleace:)\n{donate.get_page}")
+print(f"Hello my name is {donate.get_nickname()}, donate me pleace:)\n{donate.get_page()}")
 ```
 
 ## API Reference
