@@ -9,7 +9,7 @@ from setuptools import setup
 :copyright: (C) 2022 Beengoo 
 """
 
-version = "0.2"
+version = "0.2.1"
 
 long_description = "Donatello.py is a simple unofficial library for the Donatello API"
 
