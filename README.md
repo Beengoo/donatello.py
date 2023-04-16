@@ -1,7 +1,7 @@
 
 
 [Discord server](https://discord.gg/rX4A6YdXkt) | [YouTube](https://www.youtube.com/c/DuyFI) | [PyPI](https://pypi.org/project/donatello/)
-# donatello.py
+# donatello.py (Legacy)
 Donatello.py is a simple unofficial library for the Donatello API
 
 
